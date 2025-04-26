@@ -1,3 +1,11 @@
+
 let age = 30;
 console.log(age);
+let age = 50;
+console.log(age)
+hello from locally;
+console.log(age);
+hello from gitub
 
+
+let name;
