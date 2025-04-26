@@ -1,2 +1,3 @@
 let age = 50;
-console.log(age);
+console.log(age)
+hello from locally;
